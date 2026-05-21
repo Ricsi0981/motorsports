@@ -42,9 +42,6 @@ main {
   background-color: #0525dd;
 }
 
-.navbar li a.active {
-  background-color: #0525dd;
-}
 
 #logo {
   height: 80px; 
